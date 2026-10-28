@@ -9,4 +9,5 @@
 ## รายชื่อ
 
 - Anuchit Singkham
+- อนุชิต สิงห์คำ
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
