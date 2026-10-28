@@ -7,6 +7,6 @@
 ```
 
 ## รายชื่อ
-Khaweewat Jung-in
+Khaweewat Jung-in (กวีวัฒน์ จังอินทร์)
 
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
