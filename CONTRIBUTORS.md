@@ -8,4 +8,5 @@
 
 ## รายชื่อ
 
+- Anuchit
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
