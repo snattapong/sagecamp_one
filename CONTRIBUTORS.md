@@ -11,4 +11,6 @@ Khaweewat Jung-in (กวีวัฒน์ จังอินทร์)
 
 - snattapong
 
+- Anuchit Singkham
+- อนุชิต สิงห์คำ
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
