@@ -8,5 +8,5 @@
 
 ## รายชื่อ
 
-- Anuchit
+- Anuchit Singkham
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
