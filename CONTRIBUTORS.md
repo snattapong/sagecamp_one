@@ -8,6 +8,6 @@
 
 ## รายชื่อ
 
-- snattapong
+- snattapong ​( นัฐพงษ์  สืบสุข )
 
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
