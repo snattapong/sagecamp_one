@@ -68,5 +68,3 @@ export function createApp({ store, config }) {
 
   return app;
 }
-
-xxxx
