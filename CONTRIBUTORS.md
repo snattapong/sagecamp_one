@@ -9,7 +9,7 @@
 ## รายชื่อ
 Khaweewat Jung-in (กวีวัฒน์ จังอินทร์)
 
-- snattapong
+- snattapong ​( นัฐพงษ์  สืบสุข )
 
 - Anuchit Singkham
 - อนุชิต สิงห์คำ
